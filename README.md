@@ -11,7 +11,10 @@ A Java programmer and a web developer
 - 📫 How to reach me: Through my social links below
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Peanuts aren’t technically nuts
-<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif">
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif"/>
+
+## Git Stats 🤞
+<img src="https://github-readme-stats-sooty-alpha.vercel.app/api?username=Princy-Gupta&show_icons=true&theme=radical">
 
 
 

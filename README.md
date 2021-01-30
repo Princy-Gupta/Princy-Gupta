@@ -15,7 +15,8 @@ A Java programmer and a web developer
 
 ## Git Stats 🤞
 <img src="https://github-readme-stats-gilt-two.vercel.app/api?username=Princy-Gupta&show_icons=true&theme=radical">             
-<img src="https://github-readme-stats-gilt-two.vercel.app/api/top-langs?username=Princy-Gupta&show_icons=true&theme=radical"> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px">
+<img src="https://github-readme-stats-gilt-two.vercel.app/api/top-langs?username=Princy-Gupta&show_icons=true&theme=radical"> 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px">
 
 
 

@@ -21,6 +21,35 @@ A Java programmer and a web developer
 ## Projects
 <a href="https://github.com/Princy-Gupta?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>
 
+## Languages and Tools <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
+<ul>
+    <li>Atom</li>
+    <li>Bootstrap</li>
+    <li>Eclipse</li>
+    <li>Express</li>
+    <li>Intellij</li>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>Java Swing</li>
+    <li>Jsp</li>
+    <li>MongoDB</li>
+    <li>Nodejs</li>
+    <li>React</li>
+    <li>Restful Api</li>
+    <li>Servlets</li>
+    <li>TomCat Server</li>
+    <li>Xampp</li>
+    
+    
+</ul>
+
+
+
+
+
+
+
+
 
 
 

@@ -11,6 +11,9 @@ A Java programmer and a web developer
 - 📫 How to reach me: Through my social links below
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Peanuts aren’t technically nuts
+
+![](https://komarev.com/ghpvc/?username=abhishek5324&color=ff69b4)
+
 <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="300px" widhth="250px"/>
 
 ## Git Stats 🤞

@@ -1,4 +1,4 @@
-### Hey , I'm Princy 👋
+### Hey , I'm Princy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 A Java programmer and a web developer
 

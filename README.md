@@ -17,9 +17,8 @@ A Java programmer and a web developer
 <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="300px" widhth="250px"/>
 
 ## Git Stats 🤞
-<img src="https://github-readme-stats-gilt-two.vercel.app/api?username=Princy-Gupta&show_icons=true&theme=radical">             
-<img src="https://github-readme-stats-gilt-two.vercel.app/api/top-langs?username=Princy-Gupta&show_icons=true&theme=radical"> 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px">
+<img src="https://github-readme-stats-gilt-two.vercel.app/api?username=Princy-Gupta&show_icons=true&theme=radical"> <img src="https://github-readme-stats-gilt-two.vercel.app/api/top-langs?username=Princy-Gupta&show_icons=true&theme=radical"> 
+<!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px"> -->
 
 ## Projects
 <a href="https://github.com/Princy-Gupta?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>

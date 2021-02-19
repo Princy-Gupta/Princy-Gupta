@@ -42,7 +42,7 @@ A Java programmer and a web developer
     
 </ul>
 
-## Social Link
+## Social Links
 
 <ul style="list-style:none:">
     <a href="mailto:princy1894.cse18@chitkara.edu.in"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"> </a><a href="https://www.linkedin.com/in/princy-gupta-5b470a185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/Princy-Gupta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a> </ul>

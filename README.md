@@ -15,12 +15,12 @@ A Java programmer and a web developer
 <img src="https://github-readme-stats-gilt-two.vercel.app/api?username=Princy-Gupta&show_icons=true&theme=radical"> <img src="https://github-readme-stats-gilt-two.vercel.app/api/top-langs?username=Princy-Gupta&show_icons=true&theme=radical"> 
 <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px"> -->
 
-## Projects
+## `Projects`
 <a href="https://github.com/Princy-Gupta?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>
                     <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="150px" widhth="300px" />
 
 
-## Languages and Tools <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
+## `Languages and Tools` <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <ul>
     <li>Atom</li>
     <li>Bootstrap</li>
@@ -42,50 +42,7 @@ A Java programmer and a web developer
     
 </ul>
 
-## Social Links
+## `Social Links`
 
 <ul style="list-style:none:">
     <a href="mailto:princy1894.cse18@chitkara.edu.in"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"> </a><a href="https://www.linkedin.com/in/princy-gupta-5b470a185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/Princy-Gupta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a> </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Princy-Gupta/Princy-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
